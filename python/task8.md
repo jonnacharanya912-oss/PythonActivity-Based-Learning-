@@ -138,6 +138,6 @@ Subject Averages: [78.33333333333333, 83.33333333333333, 81.66666666666667]
 Top Student: Student 2
 Highest Total: 255.0
 # screenshot
-![Uploading WhatsApp Image 2026-11-12 at 1.43.22 PM (1).jpeg…]()
+<img width="721" height="661" alt="WhatsApp Image 2026-11-12 at 1 43 22 PM (1)" src="https://github.com/user-attachments/assets/8b1623bf-a74b-42dd-85b9-6c6d468fbd80" />
 
 
