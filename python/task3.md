@@ -166,6 +166,7 @@ Current Balance: Rs. 4000.0
 Enter your choice: 4
 Thank you for using the ATM!
 # screenshot
-![Uploading WhatsApp Image 2026-11-12 at 1.43.20 PM.jpeg…]()
+<img width="414" height="717" alt="WhatsApp Image 2026-11-12 at 1 43 20 PM" src="https://github.com/user-attachments/assets/d324257b-4498-421c-a81c-3115dc82d356" />
+
 
 
