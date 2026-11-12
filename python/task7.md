@@ -67,9 +67,11 @@ else:
   # Sample Input
            Enter number of rows: 5
 # Sample Output
-            1
+           1
    121
   12321
  1234321
 123454321
 # screenshot
+<img width="493" height="226" alt="WhatsApp Image 2026-11-12 at 1 43 22 PM (2)" src="https://github.com/user-attachments/assets/d22afe25-8634-42b2-8119-dc9fdf07503f" />
+
