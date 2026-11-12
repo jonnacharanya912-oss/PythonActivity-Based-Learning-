@@ -93,3 +93,6 @@ Final Marks: [70, 65, 35, 80, 75]
 Total Marks: 325 / 500
 Percentage: 65.0 %
 Result: PASS
+# screenshot output
+<img width="424" height="274" alt="WhatsApp Image 2026-11-12 at 1 43 24 PM" src="https://github.com/user-attachments/assets/f4e62199-0def-4554-be81-5ba52ef1f868" />
+
