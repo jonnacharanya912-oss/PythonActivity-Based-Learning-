@@ -109,6 +109,6 @@ Subtotal: Rs. 8000.0
 Total Discount: Rs. 800.0
 Final Bill Amount: Rs. 7200.0
 # screenshot output
-![Uploading WhatsApp Image 2026-11-12 at 1.43.21 PM (2).jpeg…]()
+<img width="511" height="529" alt="WhatsApp Image 2026-11-12 at 1 43 21 PM (2)" src="https://github.com/user-attachments/assets/57a82700-e715-46bb-855d-b11842315386" />
 
 
