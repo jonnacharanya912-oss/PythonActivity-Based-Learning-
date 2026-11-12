@@ -87,3 +87,5 @@ Current Attendance: 60.0 %
 Status: Attendance below 75%.
 Additional classes to attend: 60
 # screenshot
+<img width="517" height="189" alt="WhatsApp Image 2026-11-12 at 1 43 23 PM" src="https://github.com/user-attachments/assets/09f612eb-695c-487d-9977-60034f71fac5" />
+
